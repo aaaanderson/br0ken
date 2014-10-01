@@ -4,6 +4,6 @@
 ?>
 
 <html>
-Favorite anime received.</b>
+Favorite anime received.<br/>
 <?php displayanime(); ?>
 </html>
